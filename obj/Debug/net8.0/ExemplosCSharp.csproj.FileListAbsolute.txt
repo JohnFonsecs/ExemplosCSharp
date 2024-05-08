@@ -1,0 +1,14 @@
+C:\POO\ExemplosCSharp\bin\Debug\net8.0\ExemplosCSharp.exe
+C:\POO\ExemplosCSharp\bin\Debug\net8.0\ExemplosCSharp.deps.json
+C:\POO\ExemplosCSharp\bin\Debug\net8.0\ExemplosCSharp.runtimeconfig.json
+C:\POO\ExemplosCSharp\bin\Debug\net8.0\ExemplosCSharp.dll
+C:\POO\ExemplosCSharp\bin\Debug\net8.0\ExemplosCSharp.pdb
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.AssemblyInfoInputs.cache
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.AssemblyInfo.cs
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.csproj.CoreCompileInputs.cache
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.dll
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\refint\ExemplosCSharp.dll
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.pdb
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ExemplosCSharp.genruntimeconfig.cache
+C:\POO\ExemplosCSharp\obj\Debug\net8.0\ref\ExemplosCSharp.dll
